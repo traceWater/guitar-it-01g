@@ -15,7 +15,7 @@ const categories = [
       "title": "Electric",
       "imageUrl": "https://i.ibb.co/9t0qXQd/prsproduct.jpg",
       "route": "shop/electric",
-    },
+    }
 ];
 
 const Directory = () => {

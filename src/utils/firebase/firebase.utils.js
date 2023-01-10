@@ -21,9 +21,9 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "",
+    apiKey: "AIzaSyAhIKsk4J_caWF-C2AtH5d5BO3REtA0D3Q",
     authDomain: "",
-    projectId: "",
+    projectId: "guitar-it-01-7801e",
     storageBucket: "gs://guitar-it-01-7801e.appspot.com/",
     messagingSenderId: "",
     appId: "",

@@ -21,7 +21,7 @@ const DirectoryItem = ({ category }) => {
         />
         <Body>
           <h2>{ title }</h2>
-          <p>Find Your Guitar</p>
+          <p>Shop</p>
         </Body>
       </DirectoryItemContainer>
     )
