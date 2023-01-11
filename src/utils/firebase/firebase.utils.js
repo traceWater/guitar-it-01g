@@ -21,14 +21,17 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAhIKsk4J_caWF-C2AtH5d5BO3REtA0D3Q",
-    authDomain: "",
-    projectId: "guitar-it-01-7801e",
-    storageBucket: "gs://guitar-it-01-7801e.appspot.com/",
-    messagingSenderId: "",
-    appId: "",
-    measurementId: ""
-  };
+    
+  apiKey: "AIzaSyBNfA1XzDQpKS66KVcI79IvsVAtGc8h91I",
+  authDomain: "guitar-it-01-7801e.firebaseapp.com",
+  projectId: "guitar-it-01-7801e",
+  storageBucket: "guitar-it-01-7801e.appspot.com",
+  messagingSenderId: "258739723911",
+  appId: "1:258739723911:web:8262bb01ed4e9fdbbae222"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
 
 const firebaseApp = initializeApp(firebaseConfig);
 

@@ -9,7 +9,6 @@ const categories = [
       "imageUrl": "https://i.ibb.co/LgGyzvK/a-breedloveoregon.jpg",
       "route": "shop/acustic",
     },
-    
     {
       "id": 2,
       "title": "Electric",

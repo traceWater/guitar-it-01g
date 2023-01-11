@@ -15,6 +15,9 @@ export const Body = styled.div`
   justify-content: center;
   position: absolute;
 
+
+  
+  
   h2 {
       font-weight: bold;
       margin: -150px -6px 0 -4px;
