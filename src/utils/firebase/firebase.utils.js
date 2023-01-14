@@ -23,11 +23,11 @@ import {
 const firebaseConfig = {
     
   apiKey: "AIzaSyBNfA1XzDQpKS66KVcI79IvsVAtGc8h91I",
-  authDomain: "guitar-it-01-7801e.firebaseapp.com",
+//   authDomain: "guitar-it-01-7801e.firebaseapp.com",
   projectId: "guitar-it-01-7801e",
-  storageBucket: "guitar-it-01-7801e.appspot.com",
-  messagingSenderId: "258739723911",
-  appId: "1:258739723911:web:8262bb01ed4e9fdbbae222"
+//   storageBucket: "guitar-it-01-7801e.appspot.com",
+//   messagingSenderId: "258739723911",
+//   appId: "1:258739723911:web:8262bb01ed4e9fdbbae222"
 };
 
 // Initialize Firebase
