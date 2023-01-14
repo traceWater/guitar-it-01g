@@ -7,7 +7,7 @@ import { CategoriesContext } from '../../contexts/categories.context';
 const CategoriesPreview = () => {
     const { categoriesMap } = useContext(CategoriesContext);
 
-
+// pre pre help
 
     return (
         <Fragment>
